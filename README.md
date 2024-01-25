@@ -2,4 +2,4 @@
 
 
 
-http://gg.vpnbersama.us:440/api/badge/3/ping/1?labelPrefix=AWS+EC2+
+![Stat](http://gg.vpnbersama.us:440/api/badge/3/ping/1?labelPrefix=AWS+EC2+)http://gg.vpnbersama.us:440/api/badge/3/ping/1?labelPrefix=AWS+EC2+
